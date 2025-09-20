@@ -134,16 +134,6 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
-.env
-.envrc
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -205,3 +195,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+/results
+.DS_Store
