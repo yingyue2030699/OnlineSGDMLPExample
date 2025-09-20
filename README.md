@@ -323,17 +323,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **PyTorch Team** for the excellent deep learning framework
-- **Materials Science Community** for inspiration and domain knowledge
 - **Open Source Contributors** for various tools and libraries used
-
-## Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **Issues**: [Project Issues](https://github.com/your-username/materials-property-modeling/issues)
-
----
-
-** If you find this project useful, please consider giving it a star!**
-
